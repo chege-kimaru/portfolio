@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chege-kimaru/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "chege-kimaru",
+    "kimaru",
+    "chege",
+    "kevin's",
+    "portfolio",
+    "kimaru's",
+    "portfolio"
+  ],
+  "author": "Kevin Kimaru Chege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chege-kimaru/portfolio/issues"
+  },
+  "homepage": "https://github.com/chege-kimaru/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
